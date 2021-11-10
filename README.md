@@ -1,3 +1,3 @@
-### Hi! 👋 I'm halle, a senior CS major at lmu
+### Hi! 👋 
 
 ![Visitor Count](https://profile-counter.glitch.me/hallegv/count.svg)
